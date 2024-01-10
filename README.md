@@ -39,7 +39,8 @@ Epoch: [10/10], Loss: 0.1209, Train Acc: 85.51, Val Acc: 91.25
 
 Результаты работы модели на тестовом наборе данных
 
-![изображение](https://github.com/MYarosh/mcv_lab4/assets/57475688/9f1d4c24-cb25-4df8-a6f2-18a7a2b4fa3c)
+![изображение](https://github.com/MYarosh/mcv_lab4/assets/57475688/2769ebeb-ba73-48fd-a7c7-3b2e652f8dae)
+
 
 
 ## Выводы по работе
